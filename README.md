@@ -4,7 +4,7 @@ Graph reachability, particularly in directed graphs, plays a pivotal role in the
 
 The selected papers are:
 
-<b>1.​ An O(n<sup>1/2+ϵ</sup>)-Space and Polynomial-Time Algorithm for Directed Planar Reachability:</b><br>This paper presents a polynomial-time reachability algorithm for directed planar graphs that achieves O(n<sup>1/2+ϵ</sup>)- space bound.​
+<b>1.​ An O(n<sup>1/2+ϵ</sup>)- Space and Polynomial-Time Algorithm for Directed Planar Reachability:</b><br>This paper presents a polynomial-time reachability algorithm for directed planar graphs that achieves O(n<sup>1/2+ϵ</sup>)- space bound.​
 
 <b>2.​ A Sublinear Space, Polynomial Time Algorithm for Directed s-t Connectivity:</b><br>This paper focuses on designing an algorithm for directed s-t connectivity that uses sublinear space while maintaining polynomial time complexity.​
 
