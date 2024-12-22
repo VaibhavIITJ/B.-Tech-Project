@@ -4,8 +4,11 @@ Graph reachability, particularly in directed graphs, plays a pivotal role in the
 
 The selected papers are:
 
-<b>1.​ An O(n1/2+ϵ)-Space and Polynomial-Time Algorithm for Directed Planar Reachability -</b> This paper presents a polynomial-time reachability algorithm for directed planar graphs that achieves O(n1/2+ϵ )- space bound.​
+<b>1.​ An O(n<sup>1/2+ϵ</sup>)-Space and Polynomial-Time Algorithm for Directed Planar Reachability</b>
+This paper presents a polynomial-time reachability algorithm for directed planar graphs that achieves O(n<sup>1/2+ϵ</sup> )- space bound.​
 
-<b>2.​ A Sublinear Space, Polynomial Time Algorithm for Directed s-t Connectivity -</b> This paper focuses on designing an algorithm for directed s-t connectivity that uses sublinear space while maintaining polynomial time complexity.​
+<b>2.​ A Sublinear Space, Polynomial Time Algorithm for Directed s-t Connectivity</b>
+This paper focuses on designing an algorithm for directed s-t connectivity that uses sublinear space while maintaining polynomial time complexity.​
 
-<b>3.​ Simultaneous Time-Space Upper Bounds for Red-Blue Path Problem in Planar DAGs -</b> This paper exhibit a polynomial time and O(n1/2+ϵ) space algorithm for the RedBluePath problem and EvenPath problem in planar DAG.
+<b>3.​ Simultaneous Time-Space Upper Bounds for Red-Blue Path Problem in Planar DAGs</b>
+This paper exhibit a polynomial time and O(n<sup>1/2+ϵ</sup>) space algorithm for the <b>RedBluePath</b> problem and <b>EvenPath</b> problem in planar DAG.
